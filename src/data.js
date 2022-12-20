@@ -2,8 +2,9 @@ export const books = {
   javascript: [
     {
       name: "Eloquent Javascript",
-      imgUrl:
-        "https://open.umn.edu/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWRWVVpaWjI0MVJFMUlkSFJIUVZRNE56bFdaRmgxUWxKREJqb0dSVlE2RUdScGMzQnZjMmwwYVc5dVNTSk5hVzVzYVc1bE95Qm1hV3hsYm1GdFpUMGlPVGM0TVRVNU16STNOVGcwTmk1cWNHY2lPeUJtYVd4bGJtRnRaU285VlZSR0xUZ25KemszT0RFMU9UTXlOelU0TkRZdWFuQm5CanNHVkRvUlkyOXVkR1Z1ZEY5MGVYQmxTU0lQYVcxaFoyVXZhbkJsWndZN0JsUT0iLCJleHAiOiIyMDIyLTExLTAxVDAyOjMyOjIyLjgwMloiLCJwdXIiOiJibG9iX2tleSJ9fQ==--40ef3b56ae332bd82fd104dc12e255118a142e00/9781593275846.jpg?content_type=image%2Fjpeg&disposition=inline%3B+filename%3D%229781593275846.jpg%22%3B+filename%2A%3DUTF-8%27%279781593275846.jpg",
+      // imgUrl:
+      // "https://open.umn.edu/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWRWVVpaWjI0MVJFMUlkSFJIUVZRNE56bFdaRmgxUWxKREJqb0dSVlE2RUdScGMzQnZjMmwwYVc5dVNTSk5hVzVzYVc1bE95Qm1hV3hsYm1GdFpUMGlPVGM0TVRVNU16STNOVGcwTmk1cWNHY2lPeUJtYVd4bGJtRnRaU285VlZSR0xUZ25KemszT0RFMU9UTXlOelU0TkRZdWFuQm5CanNHVkRvUlkyOXVkR1Z1ZEY5MGVYQmxTU0lQYVcxaFoyVXZhbkJsWndZN0JsUT0iLCJleHAiOiIyMDIyLTExLTAxVDAyOjMyOjIyLjgwMloiLCJwdXIiOiJibG9iX2tleSJ9fQ==--40ef3b56ae332bd82fd104dc12e255118a142e00/9781593275846.jpg?content_type=image%2Fjpeg&disposition=inline%3B+filename%3D%229781593275846.jpg%22%3B+filename%2A%3DUTF-8%27%279781593275846.jpg",
+      imgUrl: "https://m.media-amazon.com/images/I/91asIC1fRwL.jpg",
       rating: 4
     },
     {

@@ -52,4 +52,5 @@ button {
 }
 .img-container {
   width: 200px;
+  /* object-fit: cover; */
 }
